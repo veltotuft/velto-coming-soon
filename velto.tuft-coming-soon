@@ -20,13 +20,6 @@
       padding: 0 1rem;
     }
 
-    .file:///C:/Users/TRNDY%20PHONE/Downloads/WhatsApp%20Image%202025-05-01%20at%205.31.54%20PM.jpeg {
-      font-family: 'Playfair Display', serif;
-      font-size: 2rem;
-      font-weight: 600;
-      margin-bottom: 0.5em;
-    }
-
     h1 {
       font-family: 'Playfair Display', serif;
       font-size: 3rem;
@@ -41,9 +34,6 @@
   </style>
 </head>
 <body>
-
-  <!-- Logo / Brand Name -->
-  <div class="logo">Velto</div>
 
   <h1>Coming Soon</h1>
   <p>Tuft is coming to cut through the ordinary. Coming soon.</p>
