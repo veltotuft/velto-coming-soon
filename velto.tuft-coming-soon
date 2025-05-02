@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Velto – Coming Soon</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400&family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background-color: #631f3a;
+      color: #f2d3cc;
+      font-family: 'Inter', sans-serif;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      text-align: center;
+      padding: 0 1rem;
+    }
+
+    .file:///C:/Users/TRNDY%20PHONE/Downloads/WhatsApp%20Image%202025-05-01%20at%205.31.54%20PM.jpeg {
+      font-family: 'Playfair Display', serif;
+      font-size: 2rem;
+      font-weight: 600;
+      margin-bottom: 0.5em;
+    }
+
+    h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 3rem;
+      margin: 0.5em 0;
+    }
+
+    p {
+      font-size: 1.25rem;
+      max-width: 600px;
+      margin: 0.5em 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Logo / Brand Name -->
+  <div class="logo">Velto</div>
+
+  <h1>Coming Soon</h1>
+  <p>Tuft is coming to cut through the ordinary. Coming soon.</p>
+
+</body>
+</html>
